@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="DisplayEmp">
+	Employee ID: <input type="text" name="txtEmpId"/><br/>
+	Employee Name: <input type="text" name="txtEmpName"/><br/>
+	Salary: <input type="text" name="txtEmpSalary"/><br/>
+	<input type="submit" value="Save"/>
+</form>
+</body>
+</html>

@@ -1,0 +1,7 @@
+package com.training.model.pojo;
+
+public class Employee {
+	private int empId;
+	private String empName;
+	
+}
