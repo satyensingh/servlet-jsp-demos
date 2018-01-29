@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/satyensingh/notes/Collabera/WS/Day11/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4061715931.index
+3073019715.index
+3669616025.index
+1580795760.index
+2801481110.index
+825956126.index
+2172759371.index
+1082002870.index

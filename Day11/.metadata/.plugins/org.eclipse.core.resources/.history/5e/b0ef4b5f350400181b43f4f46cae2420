@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Hello World</h1>
+</body>
+</html>
+<!-- 
+	JSP Elements:-
+		1) Expression
+				Display the value of the variable on the page.
+				<%=  %>
+		2) Scriptlets
+				Write Java Code in JSP Page
+				<%   %>
+		3) Declaration
+		4) Directive
+ -->

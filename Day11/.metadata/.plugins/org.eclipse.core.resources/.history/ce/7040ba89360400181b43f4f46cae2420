@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Hello World</h1>
+</body>
+</html>
+<!-- 
+	JSP Elements:-
+		1) Expression
+				Display the value of the variable on the page.
+				No semicolon at the end
+				Whatever we write in expression, it goes in out.print() statement
+				Example:-
+					<%=num%>
+					out.print(num);
+				<%=....  %>
+		2) Scriptlets
+				Write Java Code in JSP Page
+				semicolon at the end of statement is mandatory
+				Whatever we write in scriptlets, it goes in to the jspService() as a statement
+				Example:-
+					<%  int i; 
+						i = 100;
+					%>
+					jspService(request, response){
+						int i;
+						i = 100;
+					}
+				<% .... ;  %>
+		3) Declaration
+				semicolon at the end of statement is mandatory.
+				Whatever we write in declaration, it goes in to jsp class
+				Used to create create interface, class and Declartion of variables
+				Example:-
+					<%!
+						int j;
+					%>
+					class NewFile_jsp {
+						int j;
+
+					}
+		4) Directive
+				used to give meta information in the page
+				like, importing packages, tag library, including the content of another jsp page
+				
+				4.1) Page Directive
+					<%@ page import="java.util.Map" %>
+				
+					
+ -->
