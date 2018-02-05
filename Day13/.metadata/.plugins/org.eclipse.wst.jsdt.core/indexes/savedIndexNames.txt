@@ -1,5 +1,0 @@
-INDEX VERSION 1.4+/Users/satyensingh/notes/Collabera/WS/Day13/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3032045638.index
-2777895026.index
-2189948840.index
-2801910118.index
