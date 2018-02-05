@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+$(document).ready(function() {
+	$(function() {
+		$("#dialog").dialog({
+			autoOpen : false
+		});
+		$(".edit").on("click", function() {
+			$("#dialog").dialog("open");
+			
+		});
+	});
+});
